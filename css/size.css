@@ -1,0 +1,9 @@
+div{
+background-color: white;
+width: 55%;
+background-image: url("../image/coconut\ tree.jpg");
+height: 500px;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+}
